@@ -2,7 +2,7 @@
 
 We believe education should work for all children, parents, students, teachers and professors alike.
 
-No child/student or student should be left behind because the school curriculum doesn't fit them, but no teacher/professor should need to suffer the consequences of a student's actions.
+No child or student should be left behind because the school curriculum doesn't fit them, but no teacher/professor should need to suffer the consequences of a student's actions.
 
 We attempt to bridge the best of both worlds. A learning system in which children might actually enjoy to learn, but _never_ at the expense of a teacher's/professor's sanity.
 
